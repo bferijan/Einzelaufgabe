@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Einzelaufgabe</string>
+    <string name="mtr">Geben Sie Ihre Matrikelnummer ein:</string>
+    <string name="btn_abschicken">Abschicken</string>
+    <string name="feld_hint_mtr">Matrikelnummer:</string>
+    <string name="antwort_server">Antwort vom Server:</string>
+    <string name="berechnen">Berechnen</string>
 </resources>
